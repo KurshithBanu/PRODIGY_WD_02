@@ -1,4 +1,5 @@
 Task 2: Stopwatch Web Application
+
 Task Overview:
 To build a stopwatch web application, you can use HTML, CSS, and JavaScript. 
 HTML is used to structure the elements of the application. 
